@@ -1,6 +1,6 @@
 # Synapse Administration Scripts
 
-This repository contains Python scripts to manage various aspects of a Synapse server. The scripts included are:
+This repository contains Python scripts to manage various aspects of a Synapse server using the Admin API. These are designed to be ran on the server or in the same network. They require access to port 8008 to access the Admin API. The scripts included are:
 
 1. User Management Script
 2. Token Management Script
