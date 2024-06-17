@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Synapse Administration Scripts
 
 This repository contains Python scripts to manage various aspects of a Synapse server. The scripts included are:
