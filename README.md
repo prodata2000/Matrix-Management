@@ -1,5 +1,3 @@
-Here is a comprehensive README for the three scripts. This README is structured to provide clear and detailed instructions for setting up and using the scripts.
-
 ### README.md
 
 ```markdown
