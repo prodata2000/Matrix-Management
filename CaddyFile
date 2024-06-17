@@ -1,0 +1,13 @@
+matrix.your.domain {
+reverse_proxy /_matrix/* localhost:8008
+reverse_proxy /_synapse/client/* localhost:8008
+reverse_proxy localhost:8008
+}
+
+matrix.your.domain:8448 {
+reverse_proxy localhost:8008
+}
+
+your.domain {
+reverse_proxy localhost:8008
+}
