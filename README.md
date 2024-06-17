@@ -114,6 +114,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-```
 
-This README provides a clear and detailed guide for setting up and using the three scripts, making it easy for users to understand how to manage their Synapse server.
